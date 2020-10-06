@@ -1,3 +1,8 @@
+## [1.0.2]
+
+### Update
+- Minor package updates
+
 ## [1.0.1]
 
 ### Added
