@@ -142,7 +142,6 @@ button.mat-menu-item:hover:not([disabled]), .mat-menu-item.cdk-program-focused:n
   font-size: 16px;
 }
 
-
 mat-select.mat-select {
   width: auto;
   display: inline;
@@ -265,8 +264,6 @@ mat-toolbar.page-header {
 .mat-toolbar button {
   height: 41.6px;
   width: auto;
-  color: $toolbar-button-font-color;
-  background-color: $toolbar-button-background-color;
   line-height: 1.75;
   font-size: 0.9375rem;
   font-weight: 400;
@@ -274,10 +271,6 @@ mat-toolbar.page-header {
   @media (max-width: $small) {
     margin-top: 16px;
   }
-}
-
-.mat-toolbar button:hover {
-  background-color: $toolbar-button-background-color-active;
 }
 
 mat-tab-header .mat-tab-label, .mat-tab-link {
