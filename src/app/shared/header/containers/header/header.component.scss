@@ -50,6 +50,9 @@
   .unlock-button {
     border-color: $pink;
     margin-right: 16px;
+    text-transform: uppercase;
+
+    letter-spacing: .0892857143em;
     @media (max-width: $small) {
       display: none;
     }
