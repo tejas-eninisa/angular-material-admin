@@ -1,3 +1,11 @@
+## [1.0.3]
+
+### Fixed
+- Notifications: fix titles
+- Tables add more padding
+- Add unlock-button
+- Clear code
+
 ## [1.0.2]
 
 ### Update
