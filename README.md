@@ -1,7 +1,7 @@
 # Angular Material Admin Lite - free and open source angular admin dashboard template
 Including responsive layout and high quality UI built with Angular Material.
 
-[Demo](https://flatlogic.com/templates/angular-material-admin/demo) | [Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards)
+[Demo](https://flatlogic.com/templates/angular-material-admin/demo) | [Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards) | [Support forum](https://flatlogic.com/forum)
 
 ![1 (1)](https://user-images.githubusercontent.com/17360676/84912599-41a99c00-b0c2-11ea-8d9b-6c05a398b8ca.jpg)
 
@@ -58,7 +58,7 @@ hacking. The page must be served from a web server, e.g. apache, nginx, WebStorm
 Angular Material Admin is a part of admin dashboard solution provided by Flatlogic. We can integrate admin dashboards with such systems as your accounting software, customer relationship management (CRM) system, email management, marketing automation, website analytics program, etc.  Customized Angular Material Admin can be a great way to learn about your products usability and extendability. With this dashboard, the owner of the website (platform) can easily track orders and their success rate, track social metrics such as the most popular referring social media sites and their appropriate URLs, monitor sales states and periods of growth to better understand what makes users tick. [Contact us](https://flatlogic.com/contact) to learn more.
 
 ## Support
-For any additional information please refer to [Flatlogic homepage](https://flatlogic.com).
+For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
 
 ## How can I support developers?
 - Star our GitHub repo :star:
