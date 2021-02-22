@@ -62,9 +62,10 @@
   }
 
   &__title {
-    font-weight: $fw-lighter;
     text-transform: none;
+    font-weight: $fw-normal;
     font-size: $fs-regular;
+    color: $grey;
     margin-left: 8px;
   }
 
