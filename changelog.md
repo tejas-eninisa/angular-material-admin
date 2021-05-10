@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.5] - 05/10/2021
+### Fixed
+- Fixed ngx-echarts error
+
 ## [1.0.4] - 05/10/2021
 ### Updated
 
