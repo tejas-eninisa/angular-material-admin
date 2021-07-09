@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.6] - 07/09/2021
+### Updated
+- Added MIT License
+
 ## [1.0.5] - 05/10/2021
 ### Fixed
 - Fixed ngx-echarts error
