@@ -74,3 +74,7 @@ For any additional information please go to our [**support forum**](https://flat
 
 ## Premium themes
 Looking for premium themes and templates? Check out our other templates at [flatlogic.com](https://flatlogic.com/templates).
+
+## License
+The source code for the template is licensed under the MIT license, which you can find in
+the LICENSE.txt file.
