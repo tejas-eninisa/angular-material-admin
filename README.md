@@ -18,7 +18,7 @@ Now you can open your web app in a browser, on mobile devices and start
 hacking. The page must be served from a web server, e.g. apache, nginx, WebStorm built-in web server, etc., otherwise some features may not work properly.
 
 ## Integration
-In this version I currently intergrated the element table in it.
+In this version I currently intergrated the element table in it. The course data (https://blog.angular-university.io/angular-material-data-table/) is intergated but is is showing some errors. 
 
 ## License
 The source code for the template is licensed under the MIT license, which you can find in
