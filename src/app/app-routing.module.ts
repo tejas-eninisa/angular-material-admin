@@ -24,6 +24,12 @@ const routes: Routes = [
     loadChildren: () => import('./pages/tables/tables.module').then(m => m.TablesModule)
   },
   {
+    path: 'courses',
+    pathMatch: 'full',
+    canActivate: [AuthGuard],
+    loadChildren: () => import('./pages/courses/courses.module').then(m => m.CoursesModule)
+  },
+  {
     path: 'notification',
     pathMatch: 'full',
     canActivate: [AuthGuard],

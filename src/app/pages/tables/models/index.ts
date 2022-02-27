@@ -1,3 +1,3 @@
 export * from './employee';
 export * from './customer';
-export * from './periodicelement'
+export * from './periodicelement';
