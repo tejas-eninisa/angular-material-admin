@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Observable } from 'rxjs';
 
 import { TablesService } from '../../services';
-import { Customer, Employee } from '../../models';
+import { Customer, Employee, Periodicelement } from '../../models';
 
 @Component({
   selector: 'app-tables-page',
@@ -12,9 +12,11 @@ import { Customer, Employee } from '../../models';
 export class TablesPageComponent {
   public employeeTableData$: Observable<Employee[]>
   public materialTableData$: Observable<Customer[]>
+  public PeriodicElement$: Observable<Periodicelement[]>
 
   constructor(private service: TablesService) {
     this.employeeTableData$ = service.loadEmployeeTableData();
     this.materialTableData$ = service.loadMaterialTableData();
+    this.PeriodicElement$ = service.loadElementTableData();
   }
 }
