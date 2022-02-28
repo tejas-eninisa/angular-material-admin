@@ -53,6 +53,7 @@ Now you can open your web app in a browser, on mobile devices and start
 hacking. The page must be served from a web server, e.g. apache, nginx, WebStorm built-in web server, etc., otherwise some features may not work properly.
 
 ## Integration
+<<<<<<< HEAD
 ![3 (1)](https://user-images.githubusercontent.com/17360676/84912873-8b928200-b0c2-11ea-9e72-5aac8e8f339e.jpg)
 
 Angular Material Admin is a part of admin dashboard solution provided by Flatlogic. We can integrate admin dashboards with such systems as your accounting software, customer relationship management (CRM) system, email management, marketing automation, website analytics program, etc.  Customized Angular Material Admin can be a great way to learn about your products usability and extendability. With this dashboard, the owner of the website (platform) can easily track orders and their success rate, track social metrics such as the most popular referring social media sites and their appropriate URLs, monitor sales states and periods of growth to better understand what makes users tick. [Contact us](https://flatlogic.com/contact) to learn more.
@@ -74,6 +75,9 @@ For any additional information please go to our [**support forum**](https://flat
 
 ## Premium themes
 Looking for premium themes and templates? Check out our other templates at [flatlogic.com](https://flatlogic.com/templates).
+=======
+In this version I currently intergrated the element table in it. The course data (https://blog.angular-university.io/angular-material-data-table/) is intergated but is is showing some errors. 
+>>>>>>> 60033ab848708c12b030bb323c478971ea98efc8
 
 ## License
 The source code for the template is licensed under the MIT license, which you can find in
