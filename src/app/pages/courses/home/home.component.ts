@@ -4,7 +4,7 @@ import {Observable} from "rxjs";
 import {CoursesService} from "../services/courses.service";
 import {map} from "rxjs/operators";
 import { filter } from 'rxjs/operators';
-
+import { Router } from '@angular/router';
 
 @Component({
     selector: 'home',
